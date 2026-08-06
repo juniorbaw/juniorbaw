@@ -1,4 +1,4 @@
-# Salut, moi c'est Junior 👋
+# Salut, moi c'est Souleymane Junior 👋
 
 **Data Analyst en reconversion** · SQL · dbt · Looker Studio
 Je transforme des données brutes en décisions concrètes.
@@ -40,3 +40,4 @@ Full digital overhaul for a local Parisian driving school, moving from zero onli
 
 ### 📫 Me contacter
 [LinkedIn](https://linkedin.com/in/souleymane-nd) · soujunior94@gmail.com
+🌍 **Based in:** Paris, France | Open to remote & international opportunities
