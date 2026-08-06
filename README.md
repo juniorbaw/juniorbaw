@@ -7,9 +7,12 @@ Je transforme des données brutes en décisions concrètes.
 🌍 **Objectif** : Data Analyst / Analytics Engineer · full remote
 📊 **Ce que j'aime** : le "so what ?" — pousser l'analyse jusqu'à l'impact business
 
-### 🛠️ Stack
-`SQL` · `Python (pandas)` · `dbt` · `BigQuery` · `Looker Studio`
-`React/Next.js` · `Supabase` · `Vercel` · `n8n` · `Make`
+## 🛠 Tech Stack & Tools
+
+*   **Data & Analytics:** SQL, Python, BigQuery, Pandas, Power BI / Tableau
+*   **AI & Automation:** Prompt Engineering (Gemini, Claude), Make.com, Supabase
+*   **Web & Product:** React 19, Next.js, Firebase, Stripe, Vercel
+*   **Growth:** Local SEO, Digital Transformation, ROI Optimization
 
 ## 🚀 Featured Projects
 
