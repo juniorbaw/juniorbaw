@@ -3,7 +3,7 @@
 **Data Analyst en reconversion** · SQL · dbt · Looker Studio
 Je transforme des données brutes en décisions concrètes.
 
-🔭 **En ce moment** : bootcamp Data Analytics @ Le Wagon
+🔭 **En ce moment** : bootcamp Data Analytics @ Le Wagon /builder SaaS
 🌍 **Objectif** : Data Analyst / Analytics Engineer · full remote
 📊 **Ce que j'aime** : le "so what ?" — pousser l'analyse jusqu'à l'impact business
 
