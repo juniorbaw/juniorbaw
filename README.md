@@ -16,7 +16,7 @@ Je transforme des données brutes en décisions concrètes.
 
 ## 🚀 Featured Projects
 
-### 1. [Devisio (Facturnet)](https://github.com/juniorbaw/facturnet) — *AI-Powered Invoicing SaaS*
+### 1. [Velocia (Devisio)](https://github.com/juniorbaw/facturnet) — *AI-Powered Invoicing SaaS*
 An end-to-end SaaS application that converts voice memos or photos into formatted invoices, handles PDF generation, and processes payments.
 *   **Stack:** React 19, Firebase, Google Gemini, Stripe, Resend.
 *   **Impact:** Fully automated the invoicing workflow (Creation → PDF → Email → Payment).
