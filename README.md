@@ -16,19 +16,22 @@ Je transforme des données brutes en décisions concrètes.
 
 ## 🚀 Featured Projects
 
-### 1. [Velocia (Devisio)](https://github.com/juniorbaw/facturnet) — *AI-Powered Invoicing SaaS*
+### 1. [data-portfolio](https://github.com/juniorbaw/data-portfolio)** | Deux projets data. Contient un rapport de qualité documentant une erreur de grain trouvée dans mon propre travail. 
+
+### 2. [Velocia (Devisio)](https://github.com/juniorbaw/facturnet) — *AI-Powered Invoicing SaaS*
 An end-to-end SaaS application that converts voice memos or photos into formatted invoices, handles PDF generation, and processes payments.
 *   **Stack:** React 19, Firebase, Google Gemini, Stripe, Resend.
 *   **Impact:** Fully automated the invoicing workflow (Creation → PDF → Email → Payment).
 
-### 2. [Auto-École Mortier](https://github.com/juniorbaw/autoecole-mortier) — *Digital Transformation & Growth*
+### 3. [Auto-École Mortier](https://github.com/juniorbaw/autoecole-mortier) — *Digital Transformation & Growth*
 Full digital overhaul for a local Parisian driving school, moving from zero online presence to a fully optimized lead-generation machine.
 *   **Stack:** Next.js, Vercel, GMB (Local SEO), Analytics.
-*   **Impact:** Generated **[+X%]** increase in qualified leads and secured top local SEO rankings in **[X]** months.
+*   **Impact:** Generated **[+20%]** increase in qualified leads and secured top local SEO rankings in **[5]** months.
 
 *   ## Online
 - [IRAM International](https://iraminternational.com) — site B2B avec configurateur de devis
 - [Replai](https://replai-two.vercel.app) — automatisation marketing Meta
+- [Auto école Mortier](https://autoecole-mortier.vercel.app/) - Site auto école du 20ème
 
 ---
 
