@@ -16,7 +16,7 @@ Je transforme des données brutes en décisions concrètes.
 
 ## 🚀 Featured Projects
 
-### 1. [data-portfolio](https://github.com/juniorbaw/data-portfolio)** | Deux projets data. Contient un rapport de qualité documentant une erreur de grain trouvée dans mon propre travail. 
+### 1. [Data-portfolio](https://github.com/juniorbaw/data-portfolio) | Deux projets data. Contient un rapport de qualité documentant une erreur de grain trouvée dans mon propre travail. 
 
 ### 2. [Velocia (Devisio)](https://github.com/juniorbaw/facturnet) — *AI-Powered Invoicing SaaS*
 An end-to-end SaaS application that converts voice memos or photos into formatted invoices, handles PDF generation, and processes payments.
